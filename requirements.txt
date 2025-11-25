@@ -1,12 +1,12 @@
 # AR Hand Control System - Required Dependencies
 
 # Computer Vision & Hand Tracking
-mediapipe==0.10.0
-opencv-python==4.8.1.78
+mediapipe>=0.10.0
+opencv-python>=4.8.0
 
 # Numerical Computing
-numpy==1.24.3
+numpy>=1.24.0
 
 # Optional: For advanced features
-# scipy==1.11.4
-# scikit-learn==1.3.2
+# scipy>=1.11.0
+# scikit-learn>=1.3.0
